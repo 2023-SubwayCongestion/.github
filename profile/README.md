@@ -1,5 +1,5 @@
 ### 🚎 Subway Congestion 
-<img src="https://avatars.githubusercontent.com/u/137379087?s=200&v=4" width=200px alt="강현우"/>
+<img src="https://avatars.githubusercontent.com/u/137379087?s=200&v=4" width=100px alt="강현우"/>
 
 ### 🤖 AI 
 | <img src="https://avatars.githubusercontent.com/u/71203852?v=4" width=80px alt="동국대/김유연"/>  |  <img src="https://avatars.githubusercontent.com/u/61443621?v=4" width=80px alt="연세대/장혜령"/>  | <img src="https://avatars.githubusercontent.com/u/94609651?v=4"  width=80px alt="동국대/홍연주"/>  | 
