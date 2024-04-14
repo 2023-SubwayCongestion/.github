@@ -12,5 +12,5 @@
 | [강현우](https://github.com/khwoowoo) | [박민균](https://github.com/parkmingyun99)  |
 
 ### 🎖️ 결과
-**공모전: 장려상** <br>
-[**논문 경진대회: 한국정보처리학회 ACK 2023(추계) 논문 거제**](https://kiss.kstudy.com/Detail/Ar?key=4059504)
+[**공모전: 장려상**](https://www.youtube.com/watch?v=b8YuTw5yQ78) <br>
+[**논문: 경진대회: 한국정보처리학회 ACK 2023(추계) 논문 거제**](https://kiss.kstudy.com/Detail/Ar?key=4059504)
