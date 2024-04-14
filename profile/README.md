@@ -10,3 +10,7 @@
 | <img src="https://avatars.githubusercontent.com/u/23547185?v=4" width=90px alt="강현우"/>  | <img src="https://avatars.githubusercontent.com/u/86116666?v=4" width=90px alt="박민균"/>  |  
 | :-----: | :-----: |
 | [강현우](https://github.com/khwoowoo) | [박민균](https://github.com/parkmingyun99)  |
+
+### 🎖️ 결과
+**공모전: 장려상** <br>
+[**논문 경진대회: 한국정보처리학회 ACK 2023(추계) 논문 거제**](https://kiss.kstudy.com/Detail/Ar?key=4059504)
