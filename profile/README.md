@@ -1,9 +1,9 @@
-### 🚎 Subway Congestion 
-<img src="https://avatars.githubusercontent.com/u/137379087?s=200&v=4" width=100px alt="강현우"/>
-
 ### 🎖️ 결과
 [**공모전: 장려상**](https://www.youtube.com/watch?v=b8YuTw5yQ78) <br>
 [**논문: 한국정보처리학회 ACK 2023(추계) 논문 거제**](https://kiss.kstudy.com/Detail/Ar?key=4059504)
+
+### 🚎 Subway Congestion 
+<img src="https://avatars.githubusercontent.com/u/137379087?s=200&v=4" width=100px alt="강현우"/>
 
 ### 🤖 AI 
 | <img src="https://avatars.githubusercontent.com/u/71203852?v=4" width=80px alt="동국대/김유연"/>  |  <img src="https://avatars.githubusercontent.com/u/61443621?v=4" width=80px alt="연세대/전혜령"/>  | <img src="https://avatars.githubusercontent.com/u/94609651?v=4"  width=80px alt="동국대/홍연주"/>  | 
