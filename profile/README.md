@@ -1,4 +1,4 @@
-### 🎖️ 결과
+### 🏆 결과
 [**공모전: 2023년 한이음 ICT멘토링 공모전 장려상(ICT기업 대표이사상)**](https://www.youtube.com/watch?v=b8YuTw5yQ78) <br>
 [**논문: 한국정보처리학회 ACK 2023(추계) 논문 거제**](https://kiss.kstudy.com/Detail/Ar?key=4059504)
 
